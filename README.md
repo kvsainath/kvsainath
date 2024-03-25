@@ -6,6 +6,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - hello world
+- Goodmorning Bangalore
 
 <!---
 kvsainath/kvsainath is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
