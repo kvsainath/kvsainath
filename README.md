@@ -8,6 +8,7 @@
 - ⚡ Fun fact: ...
 - hello world
 - Goodmorning Bangalore
+- Exploring the GIT
 
 <!---
 kvsainath/kvsainath is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
