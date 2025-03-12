@@ -5,3 +5,6 @@ Updated one more line
 ip 192.1.1.1 // Qualtrics
 ip 192.1.1.2 // Qualtrics
 ip 192/1/1/  peoplefluent
+TXT record
+cname1
+
